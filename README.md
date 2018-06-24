@@ -20,21 +20,22 @@
 - Javascript
 
 ## DevTools
-- Visual Studio Code
-- Chrome DevTools
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/)
 
 ## Version Control
-- Git
+- [Git](https://git-scm.com/)
+- Version control host (eg. [Github](https://github.com/), [Bitbucket](https://bitbucket.org/), [GitLab](https://about.gitlab.com/))
 
 ## Environment
-- Virtual Machine (eg. VirtualBox)
-- Container (eg. Docker)
+- Virtual Machine (eg. [VirtualBox](https://www.virtualbox.org/))
+- Container (eg. [Docker](https://www.docker.com/))
 
 ## Basic Background
 - Data Format (eg. CSV, JSON, XML)
 
 ## Back-end
-- Node.js
+- [Node.js](https://nodejs.org/)
   - Foundation
     - The Node.js
       - RAM vs. I/O latency
@@ -45,14 +46,14 @@
       - Installing Node.js
     - Using Node.js to execute scripts
   - Node Projects
-    - The Node Package Manager (eg. Npm, Yarn)
+    - The Node Package Manager (eg. [Npm](https://www.npmjs.com/), [Yarn](https://yarnpkg.com/))
       - node_module
     - The package.json configuration file
     - Global vs. local package installation
-    - Version Manager (eg. Nvm)
-  - Framework (eg. Express, Hapi, Sails.js)
+    - Version Manager (eg. [Nvm](https://www.npmjs.com/package/nvm))
+  - Framework (eg. [Express](https://expressjs.com/), [Hapi](https://hapijs.com/), [Sails.js](https://sailsjs.com/))
     - The model-view-controller pattern
-    - Defining Jade templates
+    - Defining Pug templates
     - Building a front-end controller
     - Defining routes
     - Using REST
@@ -66,20 +67,21 @@
     - Asynchronous file reads and writes
   - Data Sources
     - How Node.js connects to databases
-    - RDBMS databases (eg. MySQL)
-    - NoSQL Database (eg. MongoDB, Redis)
+    - RDBMS databases (eg. [MySQL](https://www.mysql.com/))
+    - NoSQL Database (eg. [MongoDB](https://www.mongodb.com/), [Redis](https://redis.io/))
     - Performing CRUD operations
   - RESTful APIs
-  - Web Server (eg. Nginx)
+  - Web Server (eg. [Nginx](https://www.nginx.com/))
   - Environment
-  - Authentication (eg. JWT, OAuth 2.0)
-  - Testing (eg. Mocha, Jest)
+  - Authentication (eg. [JWT](https://jwt.io/
+), [OAuth 2.0](https://oauth.net/2/))
+  - Testing (eg. [Mocha](https://mochajs.org/), [Jest](https://facebook.github.io/jest/))
 
 ## Front-end
-- HTML & Pre-Processor (eg. Pug)
-- CSS & Pre-Processor (eg. Sass, Less, Stylus)
-- CSS Architecture (eg. BEM)
-- CSS Framework (eg. Bootstrap, Ant Design)
+- HTML & Pre-Processor (eg. [Pug](https://pugjs.org/))
+- CSS & Pre-Processor (eg. [Sass](https://sass-lang.com/), [Less](http://lesscss.org/), [Stylus](http://stylus-lang.com/))
+- CSS Architecture (eg. [BEM](http://getbem.com/introduction/))
+- CSS Framework (eg. [Bootstrap](https://getbootstrap.com/), [Ant Design](https://ant.design/))
 - Javascript
   - Fundamentals
     - Using The Console
@@ -127,33 +129,36 @@
     - ES6 Maps
     - ES6 Sets
     - Promises, async/await
-- Framework (eg. React, Vue.js, Angular)
+- Framework (eg. [React](https://reactjs.org/), [Vue.js](https://vuejs.org/), [Angular](https://angular.io/))
   - React
-  - React Framework (eg. Next.js, create-react-app)
+  - React Framework (eg. [Next.js](https://nextjs.org/), [create-react-app](https://github.com/facebook/create-react-app))
 - State Management
-  - Redux
+  - [Redux](https://redux.js.org/)
 - Build tools
-  - Webpack
-  - Gulp
-  - ESLint
+  - [Webpack](https://webpack.js.org/)
+  - [Gulp](https://gulpjs.com/)
+  - [ESLint](https://eslint.org/)
 - Testing
-  - Jest
+  - [Jest](https://facebook.github.io/jest/
+)
 - Visualizing Data
-  - D3.js
-  - Recharts
-- Progressive WebApps
+  - [D3.js](https://d3js.org/)
+  - [Recharts](http://recharts.org/)
+- [Progressive WebApps](https://developers.google.com/web/progressive-web-apps/)
 - Static Type Checkers
-  - TypeScript
+  - [TypeScript](https://www.typescriptlang.org/
+)
 
 ## DevOps
-- Editor (eg. Vim, Nano)
-- OS (eg. Ubuntu, CentOS)
+- Editor (eg. [Vim](https://www.vim.org/), [Nano](https://www.nano-editor.org/
+))
+- OS (eg. [Ubuntu](https://www.ubuntu.com/), [CentOS](https://centos.org/))
 - Bash Scripts
-- Containers (eg. Docker)
-- Web Servers (eg. Nginx, Apache)
-- Cloud (eg. Digital Ocean, AWS, GCP)
-- Automation (eg. Terraform, SaltStack, Ansible)
-- CI/CD (eg. Jenkins, Travis, CircleCI)
-- Log Management & Analysis (eg. ELK)
-- Cluster Managers (eg. Kubernetes)
-- Automating tasks (eg. Gulp)
+- Containers (eg. [Docker](https://www.docker.com/))
+- Web Servers (eg. [Nginx](https://www.nginx.com/), [Apache](https://httpd.apache.org/))
+- Cloud (eg. [Digital Ocean](https://www.digitalocean.com/), [AWS](https://aws.amazon.com/), [GCP](https://cloud.google.com/))
+- Automation (eg. [Terraform](https://www.terraform.io/), [SaltStack](https://saltstack.com/), [Ansible](https://www.ansible.com/))
+- CI/CD (eg. [Jenkins](https://jenkins.io/), [Travis CI](https://travis-ci.org/), [CircleCI](https://circleci.com/))
+- Log Management & Analysis (eg. [ELK](https://www.elastic.co/elk-stack))
+- Cluster Managers (eg. [Kubernetes](https://kubernetes.io/))
+- Automating tasks (eg. [Gulp](https://gulpjs.com/))
