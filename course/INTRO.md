@@ -1,6 +1,6 @@
 # Introduction
 
-# Editor
+# [Editor](https://code.visualstudio.com/)
 - [ ] Create File
 - [ ] File Extension
 - [ ] Open Project Folder
@@ -10,7 +10,7 @@
 - [ ] Extenstion
 - [ ] Settings "editor.tabSize": 2
 
-# HTML
+# [HTML](https://www.w3schools.com/html/default.asp)
 - [ ] Doc
 ```
 <html lang="en">
@@ -44,7 +44,7 @@
   - [ ] class
   - [ ] style
 
-# CSS
+# [CSS](https://www.w3schools.com/css/default.asp)
 - [ ] style Tags
 - [ ] font-size: 16px; 1em;
 - [ ] color: white; #FFFFFF; #333; rgba(0,0,0,0.5); https://flatuicolors.com/
@@ -54,7 +54,7 @@
 - [ ] margin: 1em;
 - [ ] border: 1px solid #ccc;
 
-# Javascript
+# [Javascript](https://www.w3schools.com/jS/default.asp)
 - [ ] Variable
   - [ ] var test = 123;
 - [ ] Operator +
@@ -117,17 +117,17 @@ var x = 10;
   - onmouseout <input onmouseout="alert('out')" value="out" />
   - onkeydown <input onkeydown="alert('hi')" value="type" />
 
-# Web Browser
+# [Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools/)
 - [ ] Inspect
 - [ ] Element
 - [ ] Console
 - [ ] Network
 
-# HTTP
+# [HTTP](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
 - method GET query string
 - method POST body
-- HTTP Code
+- [HTTP Code](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
 
 # Data Type
-- csv
-- json
+- [csv](https://en.wikipedia.org/wiki/Comma-separated_values)
+- [json](https://en.wikipedia.org/wiki/JSON)
